@@ -1,4 +1,4 @@
-package submission.ExamClass;
+package project;
 
 import static org.testng.Assert.assertEquals;
 

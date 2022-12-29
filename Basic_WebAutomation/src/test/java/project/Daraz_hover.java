@@ -1,11 +1,11 @@
-package submission.ExamClass;
+package project;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
-public class Daraz extends BaseDriver{
+public class Daraz_hover extends BaseDriver{
 	
 	@Test (priority = 0)
 	public void openurl() throws InterruptedException {
