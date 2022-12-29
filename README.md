@@ -1,6 +1,12 @@
-# Web-Automation
-Basic web automation practice
+# Web-Automation using Selenium WebDriver and TestNG
+Basic web automation practice - 
+  *Form input
+  *Checkbox
+  *Selection
+  *Alert
+  *Hover Navigation
 
-All the test codes are available in this directory: <strong>ExamClass/src/test/java/submission/ExamClass</strong>
+
+All the test codes are available in this directory: <strong>Web-Automation/Basic_WebAutomation/src/test/java/project/</strong>
 
 Thank you
