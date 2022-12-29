@@ -1,7 +1,7 @@
 # Web-Automation using Selenium WebDriver and TestNG
 Basic web automation practice - 
 
-  *Form input
+  *Form input/n
   *Checkbox
   *Selection
   *Alert
